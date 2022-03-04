@@ -1,4 +1,10 @@
-# vartical_card
+# Flutter-Vertical-Card-Pager
+
+Instagram : https://www.instagram.com/joinflutter/
+
+https://user-images.githubusercontent.com/87581799/156835453-f120a954-8240-4b61-bef0-866ca23bb3b6.mp4
+
+
 
 A new Flutter project.
 
